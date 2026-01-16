@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=salmanfarshi-dev&style=flat-square&color=blue" alt="Visitor Count" />
+</p>
+
 <!-- ================= HERO ================= -->
 <div align="center" style="padding:40px; background:linear-gradient(135deg,#0d1117,#0d1117,#161b22); border-radius:18px;">
 
