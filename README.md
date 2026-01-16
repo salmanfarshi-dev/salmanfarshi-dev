@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <h1 style="color:#4db8ff;">Hi there 👋, I'm Salman Farshi</h1>
-  <h3 style="color:#ffffff;">Full Stack Developer | Web Enthusiast 💻</h3>
+  <h1 style="color:#4db8ff; ">Hi there 👋, I'm Salman Farshi</h1>
+  <h3 style="color:#ffffff;">Full Stack Developer 💻</h3>
 </p>
 
 <p align="center">
