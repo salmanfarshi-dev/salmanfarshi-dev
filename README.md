@@ -1,5 +1,5 @@
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=salmanfarshi-dev&style=flat-square&color=blue" alt="Visitor Count" />
 </p>
 
