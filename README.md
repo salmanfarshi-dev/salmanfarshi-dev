@@ -66,11 +66,12 @@ I am a passionate <b style="color:#4db8ff;">Full Stack Developer</b> currently l
 </p>
 
 <p align="center">
-HTML & CSS: <img src="https://img.shields.io/badge/90%25-brightgreen?style=for-the-badge" /> <br>
-JavaScript: <img src="https://img.shields.io/badge/85%25-yellow?style=for-the-badge" /> <br>
-React.js: <img src="https://img.shields.io/badge/80%25-blue?style=for-the-badge" /> <br>
-Node.js: <img src="https://img.shields.io/badge/75%25-green?style=for-the-badge" /> <br>
-MongoDB: <img src="https://img.shields.io/badge/70%25-lightgreen?style=for-the-badge" />
+HTML & CSS: <img src="https://img.shields.io/badge/70%25-brightgreen?style=for-the-badge" /> <br>
+JavaScript: <img src="https://img.shields.io/badge/0%25-yellow?style=for-the-badge" /> <br>
+React.js: <img src="https://img.shields.io/badge/0%25-blue?style=for-the-badge" /> <br>
+Node.js: <img src="https://img.shields.io/badge/0%25-green?style=for-the-badge" /> <br>
+MongoDB: <img src="https://img.shields.io/badge/0%25-lightgreen?style=for-the-badge" />
+
 </p>
 
 ---
