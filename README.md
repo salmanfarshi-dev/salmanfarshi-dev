@@ -44,28 +44,29 @@ My goal is to build complete, scalable, real-world web applications — not just
     92%
   </div>
 </div>
+<br>
 
 <p>CSS (Advanced UI / Layout)</p>
 <div style="background:#0d1117; border-radius:12px;">
   <div style="width:88%; background:linear-gradient(90deg,#ff9f43,#ff6f00); padding:8px; color:white; border-radius:12px;">
-    88%
+    90%
   </div>
 </div>
-
+<br>
 <p>JavaScript (Core + DOM)</p>
 <div style="background:#0d1117; border-radius:12px;">
   <div style="width:55%; background:linear-gradient(90deg,#f7df1e,#e6c200); padding:8px; color:black; border-radius:12px;">
     0%
   </div>
 </div>
-
+<br>
 <p>Backend (Node.js / PHP)</p>
 <div style="background:#0d1117; border-radius:12px;">
   <div style="width:35%; background:linear-gradient(90deg,#6ee7b7,#22c55e); padding:8px; color:black; border-radius:12px;">
     0%
   </div>
 </div>
-
+ <br>
 <p>Database (MySQL)</p>
 <div style="background:#0d1117; border-radius:12px;">
   <div style="width:30%; background:linear-gradient(90deg,#a5b4fc,#6366f1); padding:8px; color:white; border-radius:12px;">
