@@ -81,8 +81,8 @@ MongoDB: <img src="https://img.shields.io/badge/0%25-lightgreen?style=for-the-ba
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=salmanfarshi-dev&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanfarshi-dev&theme=radical" />
 </p>
 
 <p align="center">
@@ -90,7 +90,7 @@ MongoDB: <img src="https://img.shields.io/badge/0%25-lightgreen?style=for-the-ba
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanfarshi-dev&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
