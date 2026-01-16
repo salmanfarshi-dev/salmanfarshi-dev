@@ -129,13 +129,14 @@ My goal is to build complete, scalable, real-world web applications — not just
 <br><br>
 
 <!-- ================= CONNECT ================= -->
-<h2 style="color:#58a6ff;">🌐 Connect</h2>
+<h2 style="color:#4db8ff;">📬 Contact Me</h2>
 
 <p>
-<a href="https://github.com/salmanfarshi-dev">
-  <img src="https://img.shields.io/badge/GitHub-Salman%20Farshi-181717?style=for-the-badge&logo=github">
-</a>
-<a href="https://facebook.com/Salman.Farshi.2468">
-  <img src="https://img.shields.io/badge/Facebook-Salman%20Farshi-1877f2?style=for-the-badge&logo=facebook&logoColor=white">
-</a>
+  <a href="https://www.facebook.com/Salman.Farshi.2468" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Salman%20Farshi-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+
+  <a href="mailto:sfarshi222@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sfarshi222@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
