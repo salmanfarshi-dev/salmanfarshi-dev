@@ -4,11 +4,12 @@
 
 <p align="center">
   <h1 style="color:#4db8ff;">Hi there 👋, I'm Salman Farshi</h1>
-  <h3 style="color:#ffffff;">Full Stack Developer 💻</h3>
+  <h3 style="color:#ffffff;">Full Stack Developer | Web Enthusiast 💻</h3>
 </p>
 
 <p align="center">
-I am a passionate <b style="color:#4db8ff;">Full Stack Developer</b> currently learning and growing my skills. I enjoy turning ideas into <b style="color:#ff9933;">interactive web experiences</b> and solving real-world problems with code.
+I am a passionate <b style="color:#4db8ff;">Full Stack Developer</b> currently exploring the world of web development. I enjoy building <b style="color:#ff9933;">beautiful, responsive, and interactive web applications</b> that solve real-world problems.  
+I love learning new technologies, improving my skills every day, and turning ideas into <b style="color:#4db8ff;">functional and user-friendly digital experiences</b>.
 </p>
 
 <p align="center">
