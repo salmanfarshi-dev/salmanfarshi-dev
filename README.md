@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋, I'm Salman Farshi
+### Full Stack Developer in the making 💻
 
-<!--
-**salmanfarshi-dev/salmanfarshi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **Full Stack Developer** currently learning and growing my skills in web development. I love turning ideas into **interactive web experiences**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technologies & Tools
+- **Frontend:** HTML, CSS, JavaScript, React (learning)
+- **Backend:** Node.js, Express.js, MongoDB
+- **Other Tools:** Git, GitHub, VS Code, Postman
+
+---
+
+## 🌱 Currently Learning
+- Advanced JavaScript & ES6+
+- Full Stack projects using MERN stack
+- Responsive & Pixel-perfect Web Design
+
+---
+
+## 📫 How to reach me
+- Email: sfarshi222@gmail.com
+
+
+---
+
+## 📈 GitHub Stats
+![Salman Farshi GitHub stats](https://github-readme-stats.vercel.app/api?username=salmanfarshi-dev_icons=true&theme=radical)
