@@ -3,12 +3,13 @@
 </p>
 
 <p align="center">
-  <h1 style="color:#4db8ff; ">Hi there 👋, I'm Salman Farshi</h1>
-  <h3 style="color:#ffffff;">Full Stack Developer 💻</h3>
+  <h1 style="color:#4db8ff;">Hi there 👋, I'm Salman Farshi</h1>
+  <h3 style="color:#ffffff;">Full Stack Developer  💻</h3>
 </p>
 
 <p align="center">
-I am a passionate <b style="color:#4db8ff;">Full Stack Developer</b> currently exploring the world of web development. I enjoy building <b style="color:#ff9933;">beautiful, responsive, and interactive web applications</b> that solve real-world problems.  
+I am a passionate <b style="color:#4db8ff;">Full Stack Developer</b> exploring the world of web development.  
+I enjoy building <b style="color:#ff9933;">beautiful, responsive, and interactive web applications</b> that solve real-world problems.  
 I love learning new technologies, improving my skills every day, and turning ideas into <b style="color:#4db8ff;">functional and user-friendly digital experiences</b>.
 </p>
 
@@ -19,7 +20,7 @@ I love learning new technologies, improving my skills every day, and turning ide
 ---
 
 <p align="center">
-  <h2 style="color:#4db8ff;">📫 How to reach me</h2>
+  <h2 style="color:#4db8ff;">📫 Connect with me</h2>
 </p>
 
 <p align="center">
@@ -27,7 +28,6 @@ I love learning new technologies, improving my skills every day, and turning ide
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
-
 
 ---
 
@@ -68,11 +68,10 @@ I love learning new technologies, improving my skills every day, and turning ide
 
 <p align="center">
 HTML & CSS: <img src="https://img.shields.io/badge/70%25-brightgreen?style=for-the-badge" /> <br>
-JavaScript: <img src="https://img.shields.io/badge/0%25-yellow?style=for-the-badge" /> <br>
-React.js: <img src="https://img.shields.io/badge/0%25-blue?style=for-the-badge" /> <br>
-Node.js: <img src="https://img.shields.io/badge/0%25-green?style=for-the-badge" /> <br>
-MongoDB: <img src="https://img.shields.io/badge/0%25-lightgreen?style=for-the-badge" />
-
+JavaScript: <img src="https://img.shields.io/badge/60%25-yellow?style=for-the-badge" /> <br>
+React.js: <img src="https://img.shields.io/badge/50%25-blue?style=for-the-badge" /> <br>
+Node.js: <img src="https://img.shields.io/badge/40%25-green?style=for-the-badge" /> <br>
+MongoDB: <img src="https://img.shields.io/badge/30%25-lightgreen?style=for-the-badge" />
 </p>
 
 ---
@@ -86,6 +85,8 @@ MongoDB: <img src="https://img.shields.io/badge/0%25-lightgreen?style=for-the-ba
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanfarshi-dev&theme=radical" />
 </p>
 
+---
+
 <p align="center">
   <h2 style="color:#4db8ff;">🏆 Top Languages</h2>
 </p>
@@ -93,6 +94,8 @@ MongoDB: <img src="https://img.shields.io/badge/0%25-lightgreen?style=for-the-ba
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanfarshi-dev&layout=compact&theme=radical" />
 </p>
+
+---
 
 <p align="center">
   <h2 style="color:#4db8ff;">🎨 Animated Tech Badges</h2>
