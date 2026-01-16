@@ -77,17 +77,6 @@ MongoDB: <img src="https://img.shields.io/badge/30%25-lightgreen?style=for-the-b
 ---
 
 <p align="center">
-  <h2 style="color:#4db8ff;">📈 GitHub Stats & Streak</h2>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salmanfarshi-dev&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanfarshi-dev&theme=radical" />
-</p>
-
----
-
-<p align="center">
   <h2 style="color:#4db8ff;">🏆 Top Languages</h2>
 </p>
 
