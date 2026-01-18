@@ -23,7 +23,7 @@
 <!-- ================= IDENTITY ================= -->
 <div style="background:#161b22; padding:22px; border-radius:16px;">
 
-<h2 style="color:#58a6ff;">🧠 Developer Identity</h2>
+<h2 style="color:#58a6ff;">💫 About Me:</h2>
 
 <p style="color:#c9d1d9; line-height:1.7;">
 I am <b>Salman Farshi</b>, a <b>Full Stack Developer in progress</b> with a strong
