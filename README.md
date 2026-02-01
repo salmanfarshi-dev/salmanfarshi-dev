@@ -142,7 +142,16 @@ My goal is to build complete, scalable, real-world web applications — not just
     <img src="https://img.shields.io/badge/Facebook-Salman%20Farshi-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
 
-  <a href="mailto:sfarshi222@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sfarshi222@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:salmanfarshidevel@gmail.com">
+    <img src="https://img.shields.io/badge/Email-salmanfarshidevel@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/salmanfarshi-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Salman%20Farshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://x.com/salmanfardev" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@salmanfardev-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
 </p>
+
