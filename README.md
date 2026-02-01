@@ -125,11 +125,13 @@ My goal is to build complete, scalable, real-world web applications — not just
 <!-- ================= GITHUB STATS ================= -->
 <h2 style="color:#58a6ff;">📊 GitHub Performance</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salmanfarshi-dev&show_icons=true&theme=github_dark&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salmanfarshi-dev&show_icons=true&theme=github_dark&count_private=true)](https://github-readme-stats.vercel.app/api?username=salmanfarshi-dev&show_icons=true&theme=dark
+)
 
 <br><br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salmanfarshi-dev&theme=github-dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salmanfarshi-dev&theme=github-dark)](https://github-readme-streak-stats.herokuapp.com/?user=salmanfarshi-dev&theme=dark
+)
 
 <br><br>
 
