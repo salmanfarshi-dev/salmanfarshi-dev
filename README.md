@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Salman Farshi</h1>
-<h3 align="center">MERN Stack Developer (Student) | UI Engineer | Problem Solver</h3>
+<h3 align="center">MERN Stack Developer  | UI Engineer | Problem Solver</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=salmanfarshi-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor counter"/>
 </p>
 
-<!-- Animated Typing Intro right below the main header -->
+<!-- Animated Typing Intro -->
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Frontend+UI+Engineer;Future+Full+Stack+Architect&center=true&width=500&height=45">
@@ -38,14 +38,43 @@ I specialize in **clean, modern, pixel-perfect UI** using HTML & CSS, and learni
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,mongodb,express,git,github,vscode"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+</a>
+<a href="https://nodejs.org/en/" target="_blank">
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+</a>
+<a href="https://reactjs.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=react" alt="React" />
+</a>
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+</a>
+<a href="https://expressjs.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=express" alt="Express.js" />
+</a>
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" alt="Git" />
+</a>
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+</a>
 </p>
 
 ---
 
 ## 📚 Currently Learning
 
-• JavaScript deep concepts (ES6+, async, closures)
+• Deep JavaScript concepts (ES6+, async, closures)
 • Node.js & Express backend fundamentals
 • MongoDB & CRUD operations
 • MERN full stack project architecture
@@ -67,14 +96,6 @@ I specialize in **clean, modern, pixel-perfect UI** using HTML & CSS, and learni
 <img src="https://github-readme-stats.vercel.app/api?username=salmanfarshi-dev&show_icons=true&theme=tokyonight"/>
 <img src="https://streak-stats.demolab.com/?user=salmanfarshi-dev&theme=tokyonight"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanfarshi-dev&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/salmanfarshi-dev/salmanfarshi-dev/raw/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
