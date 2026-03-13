@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salman Farshi</h1>
-<h3 align="center">MERN Stack Developer  | UI Engineer | Problem Solver</h3>
+<h3 align="center">MERN Stack Developer | JavaScript Developer | Problem Solver</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=salmanfarshi-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor counter"/>
@@ -8,7 +8,7 @@
 <!-- Animated Typing Intro -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Frontend+UI+Engineer;Future+Full+Stack+Architect&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;JavaScript+Developer;Future+Full+Stack+Architect&center=true&width=500&height=45">
 </p>
 
 ---
@@ -86,7 +86,7 @@ I specialize in **clean, modern, pixel-perfect UI** using HTML & CSS, and learni
 • Responsive landing pages (HTML & CSS)
 • Frontend-heavy portfolio websites
 • Small MERN apps (Auth + CRUD)
-• UI component libraries (CSS-focused)
+• UI component libraries
 
 ---
 
