@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salman Farshi</h1>
-<h3 align="center">MERN Stack Developer | JavaScript Developer | Frontend Developer | Backend Developer </h3>
+<h3 align="center">MERN Stack Developer | Frontend Developer | Backend Developer  | JavaScript Developer  </h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=salmanfarshi-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor counter"/>
