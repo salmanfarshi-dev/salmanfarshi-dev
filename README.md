@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salman Farshi</h1>
-<h3 align="center">MERN Stack Developer | JavaScript Developer | Problem Solver</h3>
+<h3 align="center">MERN Stack Developer | JavaScript Developer | Frontend Developer| Problem Solver</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=salmanfarshi-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor counter"/>
@@ -15,7 +15,7 @@
 
 ## 💫 About Me
 
-I am **Salman Farshi**, a **MERN Stack Developer (Student)** with a strong frontend foundation.
+I am **Salman Farshi**, a **MERN Stack Developer ** with a strong frontend foundation.
 I specialize in **clean, modern, pixel-perfect UI** using HTML & CSS, and learning **JavaScript, Node.js, Express, React, MongoDB** for real-world web apps.
 
 🎯 **Goal:** Build scalable MERN Stack applications.
