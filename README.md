@@ -26,8 +26,8 @@ I specialize in **clean, modern, pixel-perfect UI** using HTML & CSS, and learni
 
 | Skill                      | Level               |
 | -------------------------- | ------------------- |
-| HTML                       | █████████░ 92%      |
-| CSS (Advanced UI / Layout) | █████████░ 90%      |
+| HTML                       | █████████░ 90%      |
+| CSS (Advanced UI / Layout) | █████████░ 94%      |
 | JavaScript                 | ░░░░░░░░░░ Learning |
 | Node.js / Express          | ░░░░░░░░░░ Learning |
 | MongoDB                    | ░░░░░░░░░░ Learning |
