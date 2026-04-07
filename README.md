@@ -28,7 +28,7 @@ I specialize in **clean, modern, pixel-perfect UI** using HTML & CSS, and learni
 | -------------------------- | ------------------- |
 | HTML                       | █████████░ 90%      |
 | CSS (Advanced UI / Layout) | █████████░ 94%      |
-| JavaScript                 | ░░░░░░░░░░ Learning |
+| JavaScript                 | ██░ 24% |
 | Node.js / Express          | ░░░░░░░░░░ Learning |
 | MongoDB                    | ░░░░░░░░░░ Learning |
 | React                      | ░░░░░░░░░░ Learning |
