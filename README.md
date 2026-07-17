@@ -1,121 +1,160 @@
 <h1 align="center">Hi 👋, I'm Salman Farshi</h1>
-<h3 align="center">MERN Stack Developer | Frontend Developer | Backend Developer  | JavaScript Developer  </h3>
+
+<h3 align="center">
+MERN Stack Developer | Frontend Developer | Backend Developer  | React Developer  
+</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=salmanfarshi-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor counter"/>
+<img src="https://komarev.com/ghpvc/?username=salmanfarshi-dev&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
-<!-- Animated Typing Intro -->
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Frontend+Developer;Backend+Developer;JavaScript+Developer;Future+Full+Stack+Architect&center=true&width=500&height=45">
-</p>
-
----
-
-## 💫 About Me
-
-I am **Salman Farshi**, a **MERN Stack Developer ** with a strong frontend foundation.
-I specialize in **clean, modern, pixel-perfect UI** using HTML & CSS, and learning **JavaScript, Node.js, Express, React, MongoDB** for real-world web apps.
-
-🎯 **Goal:** Build scalable MERN Stack applications.
-
----
-
-## ⚙️ Skill Progress
-
-| Skill                      | Level               |
-| -------------------------- | ------------------- |
-| HTML                       | █████████░ 90%      |
-| CSS (Advanced UI / Layout) | █████████░ 94%      |
-| JavaScript                 | ██░ 24% |
-| Node.js / Express          | ░░░░░░░░░░ Learning |
-| MongoDB                    | ░░░░░░░░░░ Learning |
-| React                      | ░░░░░░░░░░ Learning |
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-<img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-<img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-</a>
-<a href="https://nodejs.org/en/" target="_blank">
-<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-</a>
-<a href="https://reactjs.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=react" alt="React" />
-</a>
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
-</a>
-<a href="https://expressjs.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=express" alt="Express.js" />
-</a>
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=git" alt="Git" />
-</a>
-<a href="https://github.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-</a>
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Frontend+Developer;JavaScript+Developer;React+Developer;Always+Learning+New+Things+🚀" />
 </p>
 
 ---
 
-## 📚 Currently Learning
+## 👨‍💻 About Me
 
-• Deep JavaScript concepts (ES6+, async, closures)
-• Node.js & Express backend fundamentals
-• MongoDB & CRUD operations
-• MERN full stack project architecture
-
----
-
-## 🚀 Project Vision
-
-• Responsive landing pages (HTML & CSS)
-• Frontend-heavy portfolio websites
-• Small MERN apps (Auth + CRUD)
-• UI component libraries
+- 🔭 I'm currently working on **My Portfolio**
+- 🌱 I'm currently learning **JavaScript, React, Node.js, Express & MongoDB**
+- 👨‍💻 All of my projects are available at **YOUR_PORTFOLIO_LINK**
+- 💬 Ask me about **HTML, CSS, JavaScript, React**
+- 📫 Reach me at **salmanfarshidevel@gmail.com**
+- 🚀 Goal: **Become a Professional MERN Stack Developer**
+- ⚡ Fun Fact: **I love creating clean & modern UI.**
 
 ---
 
-## 📊 GitHub Stats
+# ⚙️ Skill Progress
+
+### HTML
+![](https://progress-bar.dev/90/?title=HTML)
+
+### CSS
+![](https://progress-bar.dev/94/?title=CSS)
+
+### JavaScript
+![](https://progress-bar.dev/74/?title=JavaScript)
+
+### React
+![](https://progress-bar.dev/80/?title=React)
+
+### Node.js
+![](https://progress-bar.dev/0/?title=Node.js)
+
+### Express.js
+![](https://progress-bar.dev/0/?title=Express.js)
+
+### MongoDB
+![](https://progress-bar.dev/0/?title=MongoDB)
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=salmanfarshi-dev&show_icons=true&theme=tokyonight"/>
-<img src="https://streak-stats.demolab.com/?user=salmanfarshi-dev&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanfarshi-dev&layout=compact&theme=tokyonight"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,tailwind,firebase"/>
+
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 📚 Currently Learning
+
+- JavaScript (Advanced)
+- React Ecosystem
+- Node.js
+- Express.js
+- MongoDB
+- REST API
+- MERN Stack
+
+---
+
+# 🚀 Featured Projects
+
+- 🛒 Exclusive E-Commerce
+- 💬 Talkify Chat Application
+- 🌐 Portfolio Website
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=salmanfarshi-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=salmanfarshi-dev&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanfarshi-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=salmanfarshi-dev&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=salmanfarshi-dev&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
 <a href="https://www.linkedin.com/in/salmanfarshi-dev/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
+
 <a href="https://x.com/salmanfardev">
 <img src="https://skillicons.dev/icons?i=twitter"/>
 </a>
+
 <a href="https://www.facebook.com/salman.farshi.323546">
 <img src="https://img.icons8.com/color/48/facebook.png"/>
 </a>
-</p>
 
-📧 Email: **[salmanfarshidevel@gmail.com](mailto:salmanfarshidevel@gmail.com)**
+<a href="mailto:salmanfarshidevel@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
 
 ---
 
-⭐ *Thanks for visiting my GitHub profile!*
+<p align="center">
+
+### 👀 Visitor Counter
+
+<img src="https://komarev.com/ghpvc/?username=salmanfarshi-dev&label=Visitors&color=blueviolet&style=for-the-badge"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! Have a nice day 😊
+
+</h3>
