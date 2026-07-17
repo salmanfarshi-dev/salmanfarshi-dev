@@ -16,10 +16,11 @@ MERN Stack Developer | Frontend Developer | Backend Developer  | React Developer
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working on **My Portfolio**
+- 🌐 Portfolio: **[Visit My Portfolio](https://salman-farshi-dev.vercel.com)**
 - 🌱 I'm currently learning **JavaScript, React, Node.js, Express & MongoDB**
-- 👨‍💻 All of my projects are available at **YOUR_PORTFOLIO_LINK**
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
+- 👨‍💻 All of my projects are available at **https://salman-farshi-dev.vercel.com**
+- 💬 Ask me about **HTML, CSS, React**
+- 👯 I’m looking to collaborate on **[Exclusive (E-Commerce)](https://salmanfarshi-dev.github.io/Exclusive/)**
 - 📫 Reach me at **salmanfarshidevel@gmail.com**
 - 🚀 Goal: **Become a Professional MERN Stack Developer**
 - ⚡ Fun Fact: **I love creating clean & modern UI.**
