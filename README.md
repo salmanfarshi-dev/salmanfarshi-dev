@@ -9,7 +9,7 @@ MERN Stack Developer | Frontend Developer | Backend Developer  | React Developer
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Frontend+Developer;JavaScript+Developer;React+Developer;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Frontend+Developer;React+Developer;Always+Learning+New+Things+🚀" />
 </p>
 
 ---
