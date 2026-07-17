@@ -16,9 +16,9 @@ MERN Stack Developer | Frontend Developer | Backend Developer  | React Developer
 
 ## 👨‍💻 About Me
 
-- 🌐 Portfolio: **[Visit My Portfolio](https://salman-farshi-dev.vercel.com)**
+- 🌐 Portfolio: **Visit [ My Portfolio] (https://salman-farshi-dev.vercel.app/)**
 - 🌱 I'm currently learning **JavaScript, React, Node.js, Express & MongoDB**
-- 👨‍💻 All of my projects are available at **https://salman-farshi-dev.vercel.com**
+- 👨‍💻 All of my projects are available at **https://salman-farshi-dev.vercel.app/**
 - 💬 Ask me about **HTML, CSS, React**
 - 👯 I’m looking to collaborate on **[Exclusive (E-Commerce)](https://salmanfarshi-dev.github.io/Exclusive/)**
 - 📫 Reach me at **salmanfarshidevel@gmail.com**
@@ -27,30 +27,7 @@ MERN Stack Developer | Frontend Developer | Backend Developer  | React Developer
 
 ---
 
-# ⚙️ Skill Progress
 
-### HTML
-![](https://progress-bar.dev/90/?title=HTML)
-
-### CSS
-![](https://progress-bar.dev/94/?title=CSS)
-
-### JavaScript
-![](https://progress-bar.dev/74/?title=JavaScript)
-
-### React
-![](https://progress-bar.dev/80/?title=React)
-
-### Node.js
-![](https://progress-bar.dev/0/?title=Node.js)
-
-### Express.js
-![](https://progress-bar.dev/0/?title=Express.js)
-
-### MongoDB
-![](https://progress-bar.dev/0/?title=MongoDB)
-
----
 
 # 🛠 Tech Stack
 
@@ -144,15 +121,7 @@ MERN Stack Developer | Frontend Developer | Backend Developer  | React Developer
 
 ---
 
-<p align="center">
 
-### 👀 Visitor Counter
-
-<img src="https://komarev.com/ghpvc/?username=salmanfarshi-dev&label=Visitors&color=blueviolet&style=for-the-badge"/>
-
-</p>
-
----
 
 <h3 align="center">
 
