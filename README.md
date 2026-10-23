@@ -1,146 +1,159 @@
- <p align="center">
-  <img src="./assets/github-banner.png.png" alt="Salman Farshi - Frontend Web Developer" width="100%" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Salman Farshi</h1>
+<img src="./assets/github-banner.png.png" alt="Salman Farshi - Frontend Web Developer" width="100%" />
 
-<h3 align="center">Frontend Web Developer | React Developer</h3>
+<br />
 
-<p align="center">
-  <a href="https://salman-farshi-dev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/salmanfarshi-dev">
-    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/salmanfarshi-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+# Hi 👋, I'm Salman Farshi
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=salmanfarshi-dev&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile Views"/>
-</p>
+<a href="https://salman-farshi-dev.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=520&lines=Frontend+Web+Developer;React+Developer;Learning+the+MERN+Stack;Building+Today.+Improving+Every+Day." alt="Typing animation" />
+</a>
+
+<br />
+
+<a href="https://salman-farshi-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/salmanfarshi-dev/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:salmanfarshidevel@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=salmanfarshi-dev&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile Views" />
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Frontend Web Developer** passionate about building modern, responsive, and user-friendly web applications.
+I'm a **Frontend Web Developer** who enjoys building modern, responsive and user-friendly web applications, with a strong focus on clean UI and great user experience.
 
-- 💻 Focused on frontend development and modern web technologies.
-- ⚛️ Experienced in building user interfaces with React.
-- 🎨 Passionate about clean UI, responsive layouts, and great user experiences.
-- 🚀 Currently learning the remaining technologies of the MERN stack.
-- 🛠️ Building practical projects to strengthen my development skills.
-- 🤝 Open to collaboration, feedback, and frontend development opportunities.
-- 📍 Dhaka, Bangladesh.
+| | |
+|---|---|
+| 💻 **Focus** | Frontend development & modern web technologies |
+| ⚛️ **Experience** | Building user interfaces with React |
+| 🌱 **Learning** | The remaining technologies of the MERN stack |
+| 🛠️ **Approach** | Building practical projects to strengthen my skills |
+| 🤝 **Open to** | Collaboration, feedback and frontend opportunities |
+| 📍 **Location** | Dhaka, Bangladesh |
 
-**My goal:** To become a professional software developer by continuously learning, building, and improving.
+> 🎯 **My goal:** To become a professional software developer by continuously learning, building and improving.
+
+---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,tailwind,react,redux,git,github,vscode" alt="Frontend Technologies" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="MERN Stack Technologies" />
-</p>
+**Frontend & Tools**
 
-<p align="center">
-  <sub>Frontend development is my primary focus. I'm progressively expanding my skills toward full-stack development.</sub>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,tailwind,react,redux,git,github,vscode" alt="Frontend Technologies" />
+
+**Backend (Learning)**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="MERN Stack Technologies" />
+
+<sub>Frontend is my primary focus — I'm progressively expanding toward full-stack development.</sub>
+
+</div>
+
+---
 
 ## 🚀 Featured Projects
 
-### 🛍️ Yumora — E-Commerce Website
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🛍️ Yumora</h3>
+      <b>E-Commerce Website</b>
+      <p>A modern e-commerce project focused on product discovery, shopping experience and responsive UI.</p>
+      <ul>
+        <li>🛒 Product browsing & cart</li>
+        <li>❤️ Wishlist & interactions</li>
+        <li>🔎 Search & discovery</li>
+        <li>📱 Fully responsive</li>
+      </ul>
+      <p><code>React</code> <code>JavaScript</code> <code>Redux Toolkit</code> <code>Tailwind CSS</code></p>
+      <a href="https://github.com/salmanfarshi-dev/Yumora">View Repository →</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>💬 Talkify</h3>
+      <b>Chat Application</b>
+      <p>A chat application focused on user interaction, authentication and real-time style messaging features.</p>
+      <ul>
+        <li>🔐 User authentication</li>
+        <li>💬 Messaging features</li>
+        <li>🧠 Redux state management</li>
+      </ul>
+      <p><code>React</code> <code>Firebase</code> <code>Redux</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📚 Folio</h3>
+      <b>Library Management UI</b>
+      <p>A frontend library management project with book discovery and borrowing-related interactions.</p>
+      <ul>
+        <li>📖 Book discovery</li>
+        <li>🔎 Search & filtering</li>
+        <li>🔄 Borrowing interactions</li>
+      </ul>
+      <p><code>React</code> <code>JavaScript</code> <code>Tailwind CSS</code></p>
+    </td>
+  </tr>
+</table>
 
-A modern e-commerce project focused on product discovery, shopping experiences, and responsive UI design.
-
-- 🛒 Product browsing and shopping cart functionality.
-- ❤️ Wishlist and product interactions.
-- 🔎 Product search and discovery.
-- ⚛️ React-based interface with Redux state management.
-- 📱 Responsive design with Tailwind CSS.
-
-**Technologies:** React · JavaScript · Redux Toolkit · Tailwind CSS
-
-<p>
-  <a href="https://github.com/salmanfarshi-dev/Yumora">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Yumora Repository"/>
-  </a>
-</p>
-
-### 💬 Talkify — Chat Application
-
-A chat application project focused on user interaction, authentication, and messaging features.
-
-**Technologies:** React · Firebase · Redux
-
-### 📚 Folio — Library Management UI
-
-A frontend library management project featuring book discovery, search, filtering, and borrowing-related interactions.
-
-**Technologies:** React · JavaScript · Tailwind CSS
-
-<p align="center">
+<div align="center">
   <a href="https://salman-farshi-dev.vercel.app/">
-    <img src="https://img.shields.io/badge/Explore%20My%20Projects-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Projects"/>
+    <img src="https://img.shields.io/badge/Explore%20All%20Projects-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Projects" />
   </a>
-</p>
+</div>
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced JavaScript concepts.
-- Node.js and Express.js.
-- MongoDB and database fundamentals.
-- REST API development.
-- Full-stack application development with the MERN stack.
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=salmanfarshi-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=salmanfarshi-dev&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanfarshi-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-</p>
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salmanfarshi-dev&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity"/>
-</p>
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/salmanfarshi-dev/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/salmanfarshi-dev">
-    <img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="mailto:salmanfarshidevel@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="42" alt="Email"/>
-  </a>
-</p>
-
-<p align="center">
-  📧 <a href="mailto:salmanfarshidevel@gmail.com">salmanfarshidevel@gmail.com</a>
-</p>
+- [ ] Advanced JavaScript concepts
+- [ ] Node.js & Express.js
+- [ ] MongoDB & database fundamentals
+- [ ] REST API development
+- [ ] Full-stack application development with the MERN stack
 
 ---
 
-<h3 align="center">✨ Building Today. Improving Every Day.</h3>
+## 📊 GitHub Statistics
 
-<p align="center">
-  Thanks for visiting my profile! Feel free to explore my projects and connect with me. 🚀
-</p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=salmanfarshi-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanfarshi-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=salmanfarshi-dev&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salmanfarshi-dev&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/salmanfarshi-dev/"><img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn" /></a>
+&nbsp;
+<a href="https://github.com/salmanfarshi-dev"><img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub" /></a>
+&nbsp;
+<a href="mailto:salmanfarshidevel@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="42" alt="Email" /></a>
+
+📧 [salmanfarshidevel@gmail.com](mailto:salmanfarshidevel@gmail.com)
+
+<br />
+
+### ✨ Building Today. Improving Every Day.
+
+<sub>Thanks for visiting my profile! Feel free to explore my projects and get in touch. 🚀</sub>
+
+</div>
