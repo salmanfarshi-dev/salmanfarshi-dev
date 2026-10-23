@@ -51,7 +51,7 @@ I'm currently expanding my knowledge toward full-stack development by learning t
 - 💻 I build projects using **React JS**
 - 👯 I'm looking to collaborate on **Web Development Projects**
 - 💬 Ask me about **React JS, HTML, CSS, JavaScript**
-- 📂 All my projects are available at [Projects](https://salman-farshi-dev.vercel.app)
+- 📂 All my projects are available at [https://salman-farshi-dev.vercel.app]
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/salmanfarshi-dev)
 - ⚡ Fun fact: **I love turning ideas into interactive web experiences!**
 - - 🛒 Check out my E-commerce Project: [Yumora](https://yumora-project.vercel.app)
