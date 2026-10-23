@@ -1,4 +1,6 @@
-![Salman Farshi — Frontend Developer](./assets/github-banner.png)
+ <p align="center">
+  <img src="./assets/github-banner.png.png" alt="Salman Farshi - Frontend Web Developer" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Salman Farshi</h1>
 
