@@ -27,10 +27,10 @@
 <br/><br/>
 
 <div align="center">
-  <img
-    src="https://profileviews.blueorbitdevs.workers.dev/?username=salmanfarshi-dev&color=22D3EE&style=for-the-badge&label=PROFILE+VISITORS"
-    alt="Profile Visitors"
-  />
+<img
+  src="https://komarev.com/ghpvc/?username=salmanfarshi-dev&label=PROFILE%20VIEWS&color=22D3EE&style=for-the-badge"
+  alt="Profile Views"
+/>
 </div>
 
 <br/><br/>
